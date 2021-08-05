@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenan
-- 👀 I’m interested in Web and Mobilw Development
+- 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently imporving Node JS
 - 💞️ I’m looking to collaborate on  React & React Native
 - 📫 How to reach me: kenanjmk@gmail.com
