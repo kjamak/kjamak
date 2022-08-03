@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kenan
+- 👋 Hi,
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently imporving Node JS
 - 💞️ I’m looking to collaborate on  React & React Native
-- 📫 How to reach me: kenanjmk@gmail.com
+
 
 <!---
 kjamak/kjamak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
