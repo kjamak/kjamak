@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently imporving Node JS
+- 🌱 I’m currently improving Node JS
 - 💞️ I’m looking to collaborate on  React & React Native
 
 
